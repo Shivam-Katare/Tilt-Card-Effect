@@ -1,5 +1,7 @@
 # Tilt-Card-Effect
 
+- Tech Stack: Html, CSS, JavaScript
+
 # Video Preview
 
 
